@@ -7,3 +7,4 @@ app.get('/', (request, response) =>{
 });
 
 app.listen(3333);
+console.log('The Server is running')
